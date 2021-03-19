@@ -1,0 +1,9 @@
+call plug#begin()
+Plug 'sheerun/vim-polyglot'
+Plug 'jlanzarotta/bufexplorer'
+Plug 'morhetz/gruvbox'
+Plug 'neoclide/coc.nvim'
+Plug 'scrooloose/nerdcommenter'
+Plug 'tpope/vim-surround'
+Plug 'mhinz/vim-startify'
+call plug#end()

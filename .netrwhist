@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/sai/.local/src/dwm'
+let g:netrw_dirhist_4='/home/sai/.local/src'
+let g:netrw_dirhist_3='/home/sai/.local'
+let g:netrw_dirhist_2='/home/sai/.config/BraveSoftware'
+let g:netrw_dirhist_1='/home/sai/.config'
